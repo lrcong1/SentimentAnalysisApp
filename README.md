@@ -12,8 +12,6 @@ https://sentimentanalysisapp-liruih2mtiyjqpwux9acgk.streamlit.app/
 
 The objective of this project is to fine-tune a DistilBERT model using Amazon and eBay review data to help determine whether a review is positive or negative. The trained model is then integrated into a web application developed using Streamlit.
 
-Certainly! Here's a more concise version:
-
 Below is an outline of fine-tuning a DistilBERT model for sentiment analysis in e-commerce reviews.
 
 ![Alt Text](ModelIntro.png)
