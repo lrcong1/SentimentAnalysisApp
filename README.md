@@ -1,7 +1,10 @@
 # Sentiment Analysis App
 
 A web application that uses a fine-tuned DistilBERT model to analyze sentiment in product reviews.
+
 The app can be accessed at: https://sentimentanalysisapp-liruih2mtiyjqpwux9acgk.streamlit.app/
+
+![Alt Text](appscreen.png)
 
 ## Project Objective
 
