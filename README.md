@@ -1,6 +1,6 @@
 # Sentiment Analysis App
 
-A web application that uses a large language model to analyze sentiment in product reviews.
+A web application that uses a Large Language Model(LLM) to analyze sentiment in product reviews.
 
 The app can be accessed at: 
 
