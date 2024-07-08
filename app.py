@@ -3,9 +3,9 @@ from transformers import DistilBertTokenizer, DistilBertForSequenceClassificatio
 import torch
 
 # Load the tokenizer and model
-tokenizer = DistilBertTokenizer.from_pretrained("lrcong1/SentimentAnalysisApp")
+tokenizer = DistilBertTokenizer.from_pretrained(".")
 model = DistilBertForSequenceClassification.from_pretrained(
-    "lrcong1/SentimentAnalysisApp"
+    "."
 )
 
 
