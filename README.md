@@ -14,7 +14,7 @@ The objective of this project is to fine-tune a DistilBERT model using Amazon an
 
 Below is an outline of fine-tuning a DistilBERT model for sentiment analysis in e-commerce reviews.
 
-![Alt Text](ModelIntro.png)
+![Alt Text](ModelPoster.png)
 
 ## Technologies Used
 
